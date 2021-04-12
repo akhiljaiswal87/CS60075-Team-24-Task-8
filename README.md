@@ -1,6 +1,6 @@
 <img src="images\measeval-logo.jpg" alt="measeval-logo" style="zoom:150%;" />
 
-Video Presentation : <iframe src="https://drive.google.com/file/d/1OQYpCwAPwwrDmSzv5fGtxqNq3IC0zp02/preview" width="640" height="480"></iframe>
+Video Presentation :https://drive.google.com/file/d/1OQYpCwAPwwrDmSzv5fGtxqNq3IC0zp02/view
 
 Open in colab : https://colab.research.google.com/drive/13FhVXgRn_3_lw7gjdk1ZeYzxtg1qYL4p?usp=sharing
 # Introduction
