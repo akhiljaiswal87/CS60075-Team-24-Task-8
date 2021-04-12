@@ -1,4 +1,4 @@
-![measeval-logo](C:\Users\SHRMO\Downloads\measeval-logo.jpg)
+<img src="images\measeval-logo.jpg" alt="measeval-logo" style="zoom:150%;" />
 
 Open in colab : https://colab.research.google.com/drive/13FhVXgRn_3_lw7gjdk1ZeYzxtg1qYL4p?usp=sharing
 # Introduction
@@ -46,11 +46,11 @@ MeasEval is a new entity and semantic relation extraction task focused on findin
 
 # Results
 
-![quantity_f1](E:\MTech II\Natural Language Processing\Assignment\quantity_f1.jpeg)
+<img src="images\quantity_f1.jpeg" alt="quantity_f1" style="zoom:101%;" />
 
-<img src="E:\MTech II\Natural Language Processing\Assignment\measuredentity_f1.jpeg" alt="measuredentity_f1" style="zoom:92%;" />
+<img src="images\measuredentity_f1.jpeg" alt="measuredentity_f1" style="zoom:92%;" />
 
-<img src="E:\MTech II\Natural Language Processing\Assignment\measuredproperty_f1.jpeg" alt="measuredproperty_f1" style="zoom:87%;" />
+<img src="images\measuredproperty_f1.jpeg" alt="measuredproperty_f1" style="zoom:87%;" />
 
-<img src="E:\MTech II\Natural Language Processing\Assignment\overall_f1.jpeg" alt="overall_f1" style="zoom:170%;" />
+<img src="images\overall_f1.jpeg" alt="overall_f1" style="zoom:170%;" />
 
