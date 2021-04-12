@@ -1,4 +1,4 @@
-![measeval-logo](images\measeval-logo.jpg)
+<img src="images\measeval-logo.jpg" alt="measeval-logo" style="zoom:150%;" />
 
 # Introduction
 
@@ -45,7 +45,7 @@ MeasEval is a new entity and semantic relation extraction task focused on findin
 
 # Results
 
-![quantity_f1](images\quantity_f1.jpeg)
+<img src="images\quantity_f1.jpeg" alt="quantity_f1" style="zoom:101%;" />
 
 <img src="images\measuredentity_f1.jpeg" alt="measuredentity_f1" style="zoom:92%;" />
 
